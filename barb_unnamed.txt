@@ -1,0 +1,101 @@
+# Path of Legends
+Filled with wrath and despair he mounted upon Rochallor his great horse and rode forth alone, and none might restrain him. He Passed over Dor-Nu-Fauglith like a wind amid the dust, and all that beheld his onset fled in amaze , thinking that Oromë himself was come: for a great madness of rage was upon him, so that his eyes shone like the eyes of the Valar. Thus he came alone to Angband's gates, and he sounded his horn, and smote once more upon the brazen doors, and challenged Morgoth to come forth in single combat. And Morgoth Came.
+<p><i>The Silmarillion</i> - J.R.R. Tolkein</p>
+<img 
+  src='fileE:\pics\CSP/drow_barb.png' 
+  style='position:absolute; top:50px; right:30px; width:280px' />
+#### A Barbarian Path
+### Beginnings of a egend
+Level 3 Subclass Features
+#### Seeking the Path
+Whenever you have advantage on an attack roll using Strength, you can reroll one of the dice once. 
+
+#### Walking The Path
+As part of the bonus action to enter Rage, you may make one melee weapon attack against a creature within range.
+
+#### Warrior's Honor
+When interacting with a creature that you Are fighting, regularly trained with, or have fought with no longer than a day ago, you have a sense for what they are thinking. To hide their intent from your insight, they must make a Deception(charisma) check against... 
+
+DC = 8 + Your proficiency bonus + your strength modifier. 
+
+If they fail the check, you gain the benefits of a successful instight check as determined by your DM. They are under no additional compulsion to give you information or be truthful.
+
+### Warrior of Legends
+Level 6 Subclass Feature
+#### Warrior's Strength
+Reroll 1’s and 2s on damage dice from your weapons when you attack, you must use the new number.
+#### Heart of a Warrior
+
+When you fail a saving throw you may use your reaction to berserk until the end of your next turn if you are not already, taking damage as normal but ignoring any other affects.
+
+While enraged the DM selects the closest creature or object that you move towards to and recklessly attack.
+If you would resist  an effect that does no damage, take necrotic damage equal to half the DC rounded Down.
+
+### Ascended Beyond
+level 10 Subclass Feature
+#### Mark of a Master
+Your Critical Threat range is expanded by one, whatever number would be the minimum needed for an attack to be a critical is one lower.
+#### Flow State
+If another creature within range of your melee weapon would take a reaction on your turn, you may use your reaction to make a melee attack against them.
+
+
+
+### To go even Further Beyond
+Level 14 Subclass Feature
+#### Master among Masters
+Your rage bonus is now 1d10 additional damage to your melee weapon's damage, improving to 1d12 when you reach level 17 in this class.
+#### Ascended beyond Ascended
+When you roll damage for your weapon, for each dice that ends up rolling it's maximum value you may roll one additional dice of that size and add it to the damage of your weapon for that attack.
+
+<div class='pageNumber'>1</div>
+<div class='footnote'>Homebrewery</div>
+\page
+<div class='wide'>
+### Damage balance notes and stuff for cool people who read those
+#### dmg per dice based on dice science and stuff
+| how to roll | `dmg funk |` d4| d6 |d8 | d10 | d12 |
+| :----:|:-------------|:----|:----|:---|:---|:---|
+|roll|`f(n) = (n + 1)/2|`2.5|3.5|4.5|5.5|6.5|
+|reroll|`f(n) = n/2 + 1.5 + 2/n|` 3.0|4.16|5.25|6.3|7.33|
+|exploding|`f(n) = n/2 + 1 + 2/n|`3.5|4.33|5.25|6.2|7.16|
+|both|`f(n) = n/2 + 2 - 3/(2*n)|`3.62|4.75|5.81|6.85|7.87|
+</div>
+##### how did you even get those numbers?
+Shhhh, remember this is a barbarian subclass. I
+##### What that Greataxe do tho?
+your average damage at level 14 Barbarian who has ascended beyond Barbarian. would Deal 1d12 + 1d10 + 5 on a hit while raging for an adjusted average of... 19.73. A number that you could compare to the that an average barbarian would deal 16.5
+
+#####  DPR tho?
+compare the damage between us and a zealot hitting twice. which would be a zealot dealing...
+
+16.5 * 2 + 3.5 + 7 = 43.5 damage
+
+and us having ...
+
+2 * 19.73 = 39.56 damage
+##### What About Accuracy?
+well, let's copy Treantmonks homework and assume accuracy of %65
+##### To Hit Armor Class Whatever
+| base |regular advantage|extra advantage|
+|:--:|:---:|:---:|
+|%65|%87.75|%95.71|
+which should really save you from Accepting disadvantage from reckless attack and then still missing, because that sucks.
+##### thats not really the whole DPR math 
+But none of those actually take into account the good stuff of the class. your crit chance with using reckless attack is %27.1 vs %9.75 of a regular barbarian and your critical damage is going to benefit from 2 of your improved d8's for your rage damage. More frequent critical strikes improve your chances of getting a bonus attack from the Great Weapon Master Feat that a few barbarians take.
+
+##### I Still need more math
+Also using your level 10 feature you can attack on your turn using your reaction which benefits from reckless attack because it is on your turn. which is just some rules voodoo that no one else gets.
+
+##### Why can't you just run the calc for me?
+that's an opportunity for you to do your own googling and that's an important skill for you to practice.
+##### But If this is so good how can I convince my DM too use this?
+Maybe don't show 'em this page and just let them do their own math. They don't need to know your at almost %100 more attacks, %10 more accurate when reckless,  %300 higher Critical strike chance, and throwing like 10 dice around every time you roll damage. It can be our little secret ;-)
+##### So Whats the actual DPR increase You can Promise?
+You'll Probably be averaging  around 1.25 Toguros. Still B class Demon but hey that's Pretty Solid.
+
+##### If You do all this math you must clearly be a cool intellegent and attractive person who is also a great Dungeon Master.
+You can reach me @direpeacock  on most things. 
+##### Mission Accomplished
+So This Class is supposed to improve your attacks from all of those angles which compound on eachother to increase your DPR, Doing what Barbarians are supposed to do. Rise up and seize the means of rolling many many dice from the WoTC game design team. 
+<div class='pageNumber'>2</div>
+<div class='footnote'>The real treasure was the math we did along the way.  <3 </div>
